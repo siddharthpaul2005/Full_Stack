@@ -25,7 +25,7 @@ function taskHandler() {
     two mathods to add data 
     inner text and inner HTML 
     in inner text - it will consider the tag H1 it wil consider it as a text
-    in inner text - it will consider the tag H1 it wil consider it as a tag
+    in inner HTML - it will consider the tag H1 it wil consider it as a tag
     */
 
     let del = document.createElement("button")
